@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #47b2e4;
+  color: #505cfc;
 }
 
 .navbar .getstarted {
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(28, 41, 64, 0.9);
+  background: rgba(52,61,199, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile .getstarted {
   margin: 15px;
-  color: #37517e;
+  color: #343dc7;
 }
 
 .navbar-mobile .dropdown ul {
@@ -520,7 +520,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #343dc7;
 }
 
 .section-title h2::before {
@@ -540,7 +540,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #47b2e4;
+  background: #ee1ea7;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -644,7 +644,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color: #171b57;
 }
 
 .why-us .content h4 {
@@ -725,7 +725,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #343dc7;
 }
 
 .why-us .accordion-list a.collapsed:hover {
@@ -808,7 +808,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #37517e;
+  color: #343dc7;
 }
 
 .skills .progress .skill .val {
@@ -825,7 +825,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #4668a2;
+  background-color: #343dc7;
 }
 
 /*--------------------------------------------------------------
@@ -855,7 +855,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #37517e;
+  color: #343dc7;
   transition: ease-in-out 0.3s;
 }
 
@@ -972,7 +972,7 @@ section {
   z-index: 3;
   right: 15px;
   transition: all 0.3s;
-  background: rgba(55, 81, 126, 0.8);
+  background: rgba(52,61,199, 0.8);
   padding: 10px 15px;
 }
 
@@ -1045,7 +1045,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(55, 81, 126, 0.08);
+  box-shadow: 0px 0 30px rgba(52,61,199, 0.08);
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -1363,7 +1363,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #343dc7;
   transition: 0.3s;
 }
 
@@ -1389,8 +1389,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #343dc7;
+  border-bottom: 3px solid #343dc7;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1416,14 +1416,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #343dc7;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #343dc7;
 }
 
 .contact .info .email p {
@@ -1450,19 +1450,19 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #47b2e4;
+  background: #343dc7;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #343dc7;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #343dc7;
+  border-bottom: 3px solid #343dc7;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1627,7 +1627,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #343dc7;
 }
 
 #footer .footer-newsletter {
@@ -1644,7 +1644,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #343dc7;
 }
 
 #footer .footer-newsletter form {
@@ -1699,7 +1699,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #343dc7;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1713,7 +1713,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #343dc7;
   position: relative;
   padding-bottom: 12px;
 }
