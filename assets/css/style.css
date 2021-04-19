@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(74, 74, 74, 0.9);
+  background: #7D7D7D;
 }
 
 #header .logo {
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #ee1ea7;
+  color: #343dc7;
 }
 
 .navbar .getstarted {
@@ -505,7 +505,7 @@ section {
 }
 
 .section-bg {
-  background-color: #696969;
+  background-color: #7D7D7D;
 }
 
 .section-title {
