@@ -500,7 +500,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 25px;
   overflow: hidden;
 }
 
@@ -589,6 +589,10 @@ section {
   padding-right: 1rem;
 }
 
+h4 {
+  color:white;
+}
+
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
@@ -657,7 +661,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #171b57;
+  color: #343dc7;
 }
 
 .why-us .content h4 {
@@ -848,7 +852,7 @@ section {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
-  background: #fff;
+  background: rgb(43, 43, 43);
 }
 
 .services .icon-box .icon {
@@ -884,6 +888,14 @@ section {
 
 .services .icon-box:hover h4 a {
   color: #47b2e4;
+}
+
+.servicesh3 {
+  color: white;
+}
+
+h5 {
+  color: white;
 }
 
 /*--------------------------------------------------------------
@@ -1405,7 +1417,7 @@ section {
   border-top: 3px solid #343dc7;
   border-bottom: 3px solid #343dc7;
   padding: 30px;
-  background: #fff;
+  background: rgb(43, 43, 43);;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
@@ -1591,6 +1603,10 @@ section {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.contactparagraph {
+  color: white;
 }
 
 /*--------------------------------------------------------------
