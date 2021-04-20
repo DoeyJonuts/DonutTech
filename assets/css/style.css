@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 42px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -497,8 +497,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 video {
-  width: 32rem;
-  height: 18rem;
+  width: 100%;
+  height: auto;
+  max-width: 32rem;
+  max-height: 18rem;
+}
+
+#custombuilt {
+
 }
 
 /*--------------------------------------------------------------
