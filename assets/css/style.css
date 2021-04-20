@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 80vh;
+  /* height: 80vh; */
   background: #7D7D7D;
 }
 
@@ -438,7 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 100vh;
+    /* height: 100vh; */
     text-align: center;
   }
   #hero .animated {
@@ -494,6 +494,11 @@ h1, h2, h3, h4, h5, h6 {
   100% {
     transform: translateY(-10px);
   }
+}
+
+video {
+  width: 40rem;
+  height: 22.5rem;
 }
 
 /*--------------------------------------------------------------
